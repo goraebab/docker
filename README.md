@@ -38,7 +38,6 @@ empty
 
 **Hwanho**
 
-* Twitter: [@empty](https://twitter.com/empty)
 * Github: [@allmind75](https://github.com/allmind75)
 
 ## Contributing
@@ -49,5 +48,5 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 ## License
 
-Copyright 2019 [JangHwanho](https://github.com/allmind75).<br />
+Copyright 2019 [Hwanho](https://github.com/allmind75).<br />
 This project is [empty](empty) licensed.
