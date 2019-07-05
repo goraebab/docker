@@ -49,8 +49,5 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 ## License
 
-Copyright ÂŠ 2019 [JangHwanho](https://github.com/allmind75).<br />
+Copyright 2019 [JangHwanho](https://github.com/allmind75).<br />
 This project is [empty](empty) licensed.
-
-***
-_This README was generated with â¤ď¸ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
