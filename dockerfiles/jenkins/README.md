@@ -13,3 +13,7 @@ jenkins plugin 수동 설치
 2. docker cp [host 파일경로] [container name]:[container 내부 경로] 사용하여 plugin 폴더에 파일 copy
 
 3. restart
+
+docker container root 접속
+
+1. docker exec -u root -it ID /bin/bash
