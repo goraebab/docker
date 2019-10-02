@@ -47,6 +47,26 @@ DROP USER 'petclinic'@'%';
 
 
 
+##### 3) src/main/resources/db/mysql/schema.sql 파일 수정
+
+```sql
+GRANT ALL PRIVILEGES ON *.* TO petclinic@'%' IDENTIFIED BY 'petclinic';
+```
+
+
+
+##### 3) src/main/resources/db/mysql/schema.sql, src/main/resources/db/mysql/data.sql 파일을 mysql에 입력
+
+```sh
+# mysql -u root -p
+mysql> source /tmp/spring-petclinic/src/main/resources/db/mysql/schema.sql
+mysql> source /tmp/spring-petclinic/src/main/resources/db/mysql/data.sql
+```
+
+
+
+
+
 #### 3. spring petclinic 실행
 
 ##### 1) mysql을 main db로 사용하는 경우
