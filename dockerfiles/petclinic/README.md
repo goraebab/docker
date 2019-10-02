@@ -65,3 +65,6 @@ DROP USER 'petclinic'@'%';
 
 
 
+#### 4. spring petclinic 실행 결과
+
+![petclinic](img/petclinic.png)
